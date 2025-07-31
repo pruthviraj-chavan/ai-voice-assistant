@@ -103,10 +103,4 @@ The assistant is programmed to stop the conversation when the user says "goodbye
 - "Search the web for recent news about artificial intelligence."
 - "What was the recipe I saved last week for chocolate chip cookies?"
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact me at `aymenMir1001@gmail.com`.
