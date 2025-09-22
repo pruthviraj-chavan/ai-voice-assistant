@@ -1,6 +1,6 @@
 # AI Voice Assistant: Your Intelligent Conversational Companion
 
-**Transform your digital interactions with your own AI Voice Assistant🎙️🤖**
+**Transform your digital interactions with your own AI Voice Assistantt🎙️🤖**
 
 This project is an advanced AI Voice Assistant that integrates Text-to-Speech (TTS) and Speech-to-Text (STT) capabilities, allowing users to communicate directly with the agent and receive vocal responses. The assistant can utilize various tools to fulfill user requests, including managing calendars, contacts, emails, and performing web searches.
 
