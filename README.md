@@ -30,7 +30,7 @@ This project is an advanced AI Voice Assistant that integrates Text-to-Speech (T
 
 ## How to Run
 
-### Prerequisites
+### Prerequisites needed
 
 - Python 3.9+
 
