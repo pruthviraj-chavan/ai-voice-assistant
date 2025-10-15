@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Choose any model with LiteLLM
+# Choose any model with LiteLLM llm
 model = "groq/llama3-70b-8192"
 # model = "groq/llama-3.1-70b-versatile"
 # model = "gemini/gemini-1.5-pro"
