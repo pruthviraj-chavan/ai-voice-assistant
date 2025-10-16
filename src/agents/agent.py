@@ -1,7 +1,7 @@
 from colorama import Fore, init
 from litellm import completion
 
-# Initialize colorama for colored terminal output
+# Initialize colorama for colored terminal outputt
 init(autoreset=True)
 
 
