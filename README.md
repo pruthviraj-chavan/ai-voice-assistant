@@ -1,4 +1,4 @@
-# AI Voice Assistant: Your Intelligent Conversational Companionnnnnnnn
+# AI Voice Assistant: Your Intelligent Conversational Companion
 
 **Transform your digital interactions with your own AI Voice Assistantt🎙️🤖**
 
